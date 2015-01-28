@@ -1,0 +1,26 @@
+# Directories #
+/build/
+/bin/
+target/
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.db
+
+# Intellij #
+*.iml
+.idea/
+
+# OSX #
+.DS_Store
+._*
+
+# Maven #
+log/
+target/
+
+data/
